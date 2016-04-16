@@ -2,7 +2,7 @@ ifspeed.py
 ==========
 
 Prints the current tx and rx speed of an interface to stdout in mbit/s. A helper script is availabe to set up
-the USB TTY on an Arduino and run the script
+the USB TTY for an Arduino and run the script
 
 License
 -------
